@@ -1,4 +1,4 @@
-EXPECTED_EMAIL="expected_emai2@yandex.com"
+EXPECTED_EMAIL="expected_email3@yandex.com"
 EXPECTED_PASSWORD = "chudo_password"
 EXPECTED_NAME = "Alice"
 ERROR_NOT_AUTHORIZED = "You should be authorised"
